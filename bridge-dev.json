@@ -1,0 +1,16 @@
+{
+    "data": {
+        "coverity": {
+            "connect": {
+                "url": "http://localhost:8080",
+                "project": {
+                    "name": "hello-js"
+                },
+                "stream": {
+                    "name": "hello-js-dev"  
+                }
+            },
+            "local": true
+        }
+    }
+}
